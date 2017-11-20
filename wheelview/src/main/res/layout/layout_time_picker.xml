@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="123dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="#ffffff"
+    >
+
+
+    <com.example.wheelview.WheelView
+        android:id="@+id/wheelYear"
+        android:layout_width="0dp"
+        android:layout_height="123dp"
+        android:layout_weight="1"
+        app:itemNumber="3"
+        app:lineColor="#ffffff"
+        app:maskHeight="32dp"
+        app:noEmpty="true"
+        app:normalTextColor="#D5D5D5"
+        app:normalTextSize="18dp"
+        app:selectedTextColor="#353232"
+        app:selectedTextSize="18dp"
+        app:unitHeight="41dp"
+        />
+
+
+    <com.example.wheelview.WheelView
+        android:id="@+id/wheelMonth"
+        android:layout_width="0dp"
+        android:layout_height="123dp"
+        android:layout_weight="1"
+        app:itemNumber="3"
+        app:lineColor="#ffffff"
+        app:noEmpty="true"
+        app:normalTextColor="#D5D5D5"
+        app:normalTextSize="18dp"
+        app:selectedTextColor="#353232"
+        app:selectedTextSize="18dp"
+        app:unitHeight="41dp"
+        />
+
+
+</LinearLayout>

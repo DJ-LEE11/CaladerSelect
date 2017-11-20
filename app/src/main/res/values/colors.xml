@@ -3,4 +3,18 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="system_window_color">#1c1b1a</color>
+    <color name="title_bg_color">#353232</color>
+    <color name="btn_normal_color">#FCCF42</color>
+    <color name="btn_select_color">#ECB125</color>
+    <color name="btn_gray_normal_color">#c6c6c6</color>
+    <color name="btn_gray_select_color">#acacac</color>
+    <color name="btn_enable_color">#C6C6C6</color>
+    <color name="btn_text_normal_color">#5F5858</color>
+    <color name="item_select_bg">#eeeeee</color>
+    <color name="text1_color">#DED29E</color>
+    <color name="text2_color">#84847D</color>
+    <color name="text3_color">#353232</color>
+    <color name="text4_color">#5F5858</color>
 </resources>
